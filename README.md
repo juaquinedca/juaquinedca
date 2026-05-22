@@ -6,18 +6,29 @@ Egresado de Ingeniería en Informática con un fuerte interés y foco en el ecos
 
 ---
 
-###  Tecnologías y Herramientas
+---
+
+### 🛠️ Tecnologías y Herramientas
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/n8n-FF6F61?style=for-the-badge&logo=n8n&logoColor=white" />
+  <img src="https://img.shields.io/badge/Excel_Avanzado-107C41?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+</p>
+
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,django,postgres,mysql,pycharm,azure,git,windows,linux,jira,trello&perline=6" />
+    <img src="https://skillicons.dev/icons?i=python,django,postgres,mysql,git,azure,linux,jira,trello&perline=9" />
   </a>
 </p>
-* **Bases de Datos:** SQL Server, PostgreSQL, Consultas SQL (Joins, Filtros, Agregaciones).
-* **Lenguajes y Librerías:** Python (Pandas), SQL, Django.
-* **Automatización:** n8n, Integración de APIs, Bots conversacionales (Telegram).
-* **Visualización:** Power BI (Dashboards interactivos), Excel Avanzado.
-* **Nociones Cloud & Gestión:** Introducción a Pipelines ETL (Azure Data Factory), Jira, Trello, Git.
 
+* [cite_start]**Bases de Datos:** SQL Server, PostgreSQL[cite: 17].
+* [cite_start]**Lenguajes y Librerías:** Python (Pandas), SQL, Django[cite: 18].
+* [cite_start]**Automatización:** n8n, Integración de APIs, Bots conversacionales (Telegram)[cite: 21, 26].
+* [cite_start]**Visualización:** Power BI, Excel Avanzado[cite: 19, 20].
+* [cite_start]**Nociones Cloud & Gestión:** Introducción a Pipelines ETL (Azure Data Factory), Jira, Trello, Git[cite: 12, 20].
+
+---
 ---
 
 ### Proyectos de Práctica Destacados
