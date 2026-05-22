@@ -34,5 +34,5 @@ Egresado de Ingeniería en Informática con un fuerte interés y foco en el ecos
 
 ### Conectemos
 
-* 💼 **LinkedIn:** [linkedin.com/in/juaquin-carrillo-quezada-a162052b2](https://www.linkedin.com/in/juaquin-carrillo-quezada-a162052b2)
-* 📧 **Correo:** juaquinedca@gmail.com
+*  **LinkedIn:** [linkedin.com/in/juaquin-carrillo-quezada-a162052b2](https://www.linkedin.com/in/juaquin-carrillo-quezada-a162052b2)
+*  **Correo:** juaquinedca@gmail.com
