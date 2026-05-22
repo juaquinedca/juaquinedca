@@ -7,7 +7,11 @@ Egresado de Ingeniería en Informática con un fuerte interés y foco en el ecos
 ---
 
 ###  Tecnologías y Herramientas
-
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,django,postgres,mysql,pycharm,azure,git,windows,linux,jira,trello&perline=6" />
+  </a>
+</p>
 * **Bases de Datos:** SQL Server, PostgreSQL, Consultas SQL (Joins, Filtros, Agregaciones).
 * **Lenguajes y Librerías:** Python (Pandas), SQL, Django.
 * **Automatización:** n8n, Integración de APIs, Bots conversacionales (Telegram).
