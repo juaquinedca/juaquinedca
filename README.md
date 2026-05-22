@@ -6,7 +6,7 @@ Egresado de Ingeniería en Informática con un fuerte interés y foco en el ecos
 
 ---
 
-###  Tecnologías y Herramientas🛠️
+###  Tecnologías y Herramientas
 
 * **Bases de Datos:** SQL Server, PostgreSQL, Consultas SQL (Joins, Filtros, Agregaciones).
 * **Lenguajes y Librerías:** Python (Pandas), SQL, Django.
@@ -16,7 +16,7 @@ Egresado de Ingeniería en Informática con un fuerte interés y foco en el ecos
 
 ---
 
-### Proyectos de Práctica Destacados🧪 
+### Proyectos de Práctica Destacados
 
 * 🤖 **Bot de RRHH (n8n + Telegram):** Automatización de flujos de trabajo e integración de procesos mediante un bot interactivo.
 * 🌐 **Sistema de Gestión (Django):** Aplicación web tipo CRUD para administración clínica, manejo de usuarios y base de datos.
@@ -25,7 +25,7 @@ Egresado de Ingeniería en Informática con un fuerte interés y foco en el ecos
 
 ---
 
-###  Educación y Certificaciones🎓
+###  Educación y Certificaciones
 
 * **Ingeniería en Informática** — INACAP Sede Temuco (Egresado 2025)
 * **Certificaciones:** Desarrollador Full Stack & Gestión de Bases de Datos (INACAP) | Excel Avanzado & Power BI (Santander Open Academy).
