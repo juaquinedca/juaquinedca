@@ -19,14 +19,14 @@ Egresado de Ingeniería en Informática con un fuerte interés y foco en el ecos
   <img src="https://img.shields.io/badge/Azure_Data_Factory-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
-  <img src="https://img.shields.io/badge/Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white" />
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
 </p>
 
 * **Bases de Datos:** SQL Server, PostgreSQL.
 * **Lenguajes y Librerías:** Python (Pandas), SQL, Django.
 * **Automatización:** n8n, Integración de APIs, Bots conversacionales (Telegram).
 * **Visualización:** Power BI, Excel Avanzado.
-* **Nociones Cloud & Gestión:** Introducción a Pipelines ETL (Azure Data Factory), Jira, Trello, Git.
+* **Nociones Cloud & Gestión:** Introducción a Pipelines ETL (Azure Data Factory), Jira, Notion, Git.
 
 ---
 
